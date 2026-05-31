@@ -10,8 +10,8 @@ Latest enhancements will code-here as well!
 ## STATUS: Work in Progress!
 This is 'a Test-ing 🫡
 
-## Installing
-Here is how to install PyTrek 2026:
+## Installing & Playing
+Here is how to install & startup PyTrek 2026:
 
 👉 Download ./dist/[whatever].whl
 
