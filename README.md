@@ -1,3 +1,5 @@
+![PyTrek 9000](https://github.com/Python3-Training/PyTrek-9000/blob/master/PyTrek.png)
+
 # Welcome to PyTrek 2026!
 A 'fav mantra in our community is that "if it runs then it is good Python."
 
