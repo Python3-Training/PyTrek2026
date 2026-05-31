@@ -12,7 +12,7 @@ import sys
 if '..' not in sys.path:
     sys.path.append('..')
     
-from PyTrek import trek_strings
+from PyTrek import trek_strings as TrekStrings
 from PyTrek import glyphs
 from PyTrek.ship_klingon import ShipKlingon
 from PyTrek.ship_enterprise import ShipEnterprise

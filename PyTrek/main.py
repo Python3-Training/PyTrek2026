@@ -6,7 +6,7 @@
 # FILE: main.py
 # AUTHOR: See https://ko-fi.com/randallnagy
 #
-﻿import sys
+import sys
 if '..' not in sys.path:
     sys.path.append('..')
     

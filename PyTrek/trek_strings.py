@@ -6,7 +6,7 @@
 # FILE: trek_strings.py
 # AUTHOR: See https://ko-fi.com/randallnagy
 #
-﻿LOGO_TREKER = r"""
+LOGO_TREKER = r"""
                ______ _______ ______ ______    _______ ______  ______ __  __ 
               / __  //__  __// __  // __  /   /__  __// __  / / ____// / / /
              / / /_/   / /  / /_/ // /_/ /      / /  / /_/ / / /__  / // /
