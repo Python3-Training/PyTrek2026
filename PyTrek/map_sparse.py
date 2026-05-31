@@ -1,3 +1,11 @@
+# MISSION: PyTrek - The NEXT Generation.
+# STATUS: Testing
+# VERSION: 0.0.0
+# NOTES: See https://github.com/Python3-Training/PyTrek2026
+# DATE: 2026-05-30 09:30:29
+# FILE: map_sparse.py
+# AUTHOR: See https://ko-fi.com/randallnagy
+#
 import random
 
 import sys
